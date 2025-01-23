@@ -4,7 +4,7 @@
 This project focuses on developing a predictive model to detect fraudulent transactions in e-commerce platforms The primary goal was to optimize the recall for fraud detection while minimizing false negatives to reduce potential financial losses. Using Python and machine learning techniques, the model identifies suspicious patterns, enabling businesses to mitigate financial losses and enhance security.
 
 ## Key Highlights
--Dataset size: 290,000+ transactions
+- Dataset size: 290,000+ transactions
 - Features: 15 optimized features
 - Model: XGBoost
 - Performance:
