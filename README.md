@@ -33,3 +33,7 @@ Refer to the repository layout above.
 
 ## How to Run
 Run the notebooks in the notebooks folder sequentially or use the scripts in the src folder for a streamlined process.
+
+## Workflow:
+- Use the scripts in the src/ folder for reusable logic.
+- Use the Jupyter notebooks in notebooks/ to prototype, analyze, and finalize steps.
