@@ -1,0 +1,9 @@
+The processed dataset containes features with cleaned variables.
+
+Sample:
+	Transaction ID	Customer ID	Transaction Amount	Transaction Date	Payment Method	Product Category	Quantity	Customer Age	Customer Location	Device Used	...	loc_grp_Port David	loc_grp_Port Michael	loc_grp_Smithmouth	loc_grp_South James	loc_grp_South John	loc_grp_South Michael	loc_grp_West Jennifer	loc_grp_West Michael	high_risk_and_low_amount	high_risk_and_new_account
+0	15d2e414-8735-46fc-9e02-80b472b2580f	d1b87f62-51b2-493b-ad6a-77e0fe13e785	4.079062	2024-02-20 05:58:41	bank transfer	electronics	1	17.0	Amandaborough	tablet	...	False	False	False	False	False	False	False	False	0	0
+1	0bfee1a0-6d5e-40da-a446-d04e73b1b177	37de64d5-e901-4a56-9ea0-af0c24c069cf	5.968605	2024-02-25 08:09:45	debit card	electronics	2	40.0	East Timothy	desktop	...	False	False	False	False	False	False	False	False	0	0
+2	e588eef4-b754-468e-9d90-d0e0abfc1af0	1bac88d6-4b22-409a-a06b-425119c57225	4.906681	2024-03-18 03:42:55	PayPal	home & garden	2	22.0	Davismouth	tablet	...	False	False	False	False	False	False	False	False	0	0
+3	4de46e52-60c3-49d9-be39-636681009789	2357c76e-9253-4ceb-b44e-ef4b71cb7d4d	5.425699	2024-03-16 20:41:31	bank transfer	clothing	5	31.0	Lynnberg	desktop	...	False	False	False	False	False	False	False	False	0	0
+4	074a76de-fe2d-443e-a00c-f044cdb68e21	45071bc5-9588-43ea-8093-023caec8ea1c	4.808356	2024-01-15 05:08:17	bank transfer	clothing	2	51.0	South Nicole	tablet	...	False	False	False	False	False	False	False	False	0	0
